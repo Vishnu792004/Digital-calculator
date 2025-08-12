@@ -1,0 +1,33 @@
+body{
+    background-image: url(https://as2.ftcdn.net/v2/jpg/02/15/74/55/1000_F_215745522_yiFA1enauPMiVGk5REbsqQj5Ct74qvsf.jpg);
+   background-repeat: no-repeat;
+   background-position: center;
+   background-size: cover;
+    margin-top: 100px;
+  }
+button{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 18px;
+    padding-right: 18px;
+    border-radius: 20%;
+}
+table{
+    border: 3px solid;
+}
+button:hover{
+    color:white;
+    background-image: linear-gradient(to right,violet,rgb(151, 226, 251));
+    border-radius: 50%;
+}
+#res{
+    background-image: linear-gradient(to right,rgb(94,201,192),rgb(236,220,68));
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#res:hover{
+    color:white;
+    background-image: linear-gradient(to right,violet,rgb(151, 226, 251));
+    border-radius: 10%;
+}
